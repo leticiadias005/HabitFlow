@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitFlow</string>
+
+    <!-- Tela 1: boas-vindas -->
+    <string name="welcome_title">HabitFlow</string>
+    <string name="welcome_subtitle">Construa hábitos pequenos, todos os dias.</string>
+    <string name="welcome_logo_description">Ícone do aplicativo HabitFlow: um círculo com um checkmark</string>
+    <string name="welcome_start_button">Começar</string>
+
+    <!-- Tela 2: lista -->
+    <string name="list_title">Meus hábitos</string>
+    <string name="list_hint">Marque os hábitos que você já cumpriu hoje e toque em um deles para ver os detalhes.</string>
+    <string name="habit_title_format">%1$s %2$s</string>
+    <string name="habit_target_format">%1$dx por semana</string>
+    <string name="habit_check_description">Marcar %1$s como concluído hoje</string>
+
+    <!-- Tela 3: detalhes -->
+    <string name="detail_description_label">Descrição</string>
+    <string name="detail_target_label">Meta</string>
+    <string name="detail_reminder_label">Lembrete</string>
+    <string name="detail_status_label">Hoje</string>
+    <string name="detail_no_description">Sem descrição adicional para este hábito.</string>
+    <string name="detail_no_reminder">Nenhum lembrete configurado</string>
+    <string name="detail_reminder_format">Às %1$s</string>
+    <string name="detail_status_done">Concluído ✅</string>
+    <string name="detail_status_pending">Ainda não concluído</string>
+    <string name="detail_unknown_habit">Hábito sem nome</string>
+</resources>
